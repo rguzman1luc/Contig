@@ -17,16 +17,16 @@ Our mission is to remake the original Java based Contig game by adding new featu
 
 ### ✅ 1. Analyze Original Code
 - Reviewed the original implementation.
-- Cleaned up messy or unclear logic.
+- Cleaned up code. 
 - Identified a base for the project. 
 
 ### 💡 2. Brainstorm Improvements
-- Discussed enhancements:
-  - GUI version (Tkinter? Pyqt5?)
-  - Player turn timer
-  - Arithmetic validation helper
-  - Sound effects or animations 
-  - Save/load game state
+- Discussed improvements:
+  - GUI version (Tkinter? Pyqt5?)✅
+  - Player turn timer✅
+  - Arithmetic validation helper🟥
+  - Sound effects or animations 🟥
+  - Save/load game state🟥
 
 ### 🐍 3. Choose Language: Python
 - Selected Python for readability and rapid GUI development (via `tkinter`).
@@ -36,7 +36,7 @@ Our mission is to remake the original Java based Contig game by adding new featu
 - Preserved all core functionality (e.g., score system, board layout, dice logic).
 
 ### 🗺️ 5. Begin GUI Planning
-- Drafted initial window layout and flow.
+- Drafted initial window layout.
 - Determined components needed:
   - Game board 
   - Display a way for the numbers rolled 
