@@ -24,6 +24,8 @@ Our mission is to remake the original Java based Contig game by adding new featu
 - Discussed improvements:
   - GUI version (Tkinter? Pyqt5?)✅
   - Player turn timer✅
+  - Move History tab
+  - Proof Time tab
   - Arithmetic validation helper🟥
   - Sound effects or animations 🟥
   - Save/load game state🟥
